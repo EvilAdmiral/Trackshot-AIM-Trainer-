@@ -4,33 +4,33 @@ TrackShot is a browser-based aim training tool designed to improve accuracy, rea
 
 🎯 Features:
 🔹 Multiple Training Modes
-      Static Click
-      Tracking
-      Flick Shot
-      Speed Mode
+      -Static Click
+      -Tracking
+      -Flick Shot
+      -Speed Mode
 🔹 Real-Time Performance Tracking
-      Hits / Misses
-      Accuracy %
-      Reaction Time
+      -Hits / Misses
+      -Accuracy %
+      -Reaction Time
 🔹 Interactive Dashboard
-      Session history
-      Performance graphs
-      Insights based on gameplay
+      -Session history
+      -Performance graphs
+      -Insights based on gameplay
 🔹 Sensitivity Control
-      Adjustable in-game sensitivity
-      Designed to mimic FPS aim feel
+      -Adjustable in-game sensitivity
+      -Designed to mimic FPS aim feel
 🔹 Crosshair Customization
-      Multiple crosshair styles
-      Live preview system
+      -Multiple crosshair styles
+      -Live preview system
 🔹 Backend Integration
-      Stores session data
-      Retrieves history dynamically
+      -Stores session data
+      -Retrieves history dynamically
 
 🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-Graphics: Canvas / Three.js
-Backend: Python (Flask)
-Database: SQLite
+-Frontend: HTML, CSS, JavaScript
+-Graphics: Canvas / Three.js
+-Backend: Python (Flask)
+-Database: SQLite
 
 
 📊 Use Case
